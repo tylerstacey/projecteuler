@@ -1,3 +1,4 @@
+#coding=utf-8
 """
 PROJECT EULER - PROBLEM X
 
